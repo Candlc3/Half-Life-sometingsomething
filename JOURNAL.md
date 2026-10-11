@@ -14,16 +14,14 @@
 
 ## Contents
 
-1. [2026-10-05 – bro i think im finished i lowk understand how to use kicad cuz i did it for stardance what do i even do to log in my next 3 hours](#2026-10-05-bro-i-think-im-finished-i-lowk-understand-how-to-)
+1. [2026-10-05 – Work session](#2026-10-05-work-session)
 2. [2026-10-11 – Work session](#2026-10-11-work-session)
 
 ## Design
 
-### 2026-10-05 – bro i think im finished i lowk understand how to use kicad cuz i did it for stardance what do i even do to log in my next 3 hours
+### 2026-10-05 – Work session
 
 **1.13h**
-
-bro i think im finished i lowk understand how to use kicad cuz i did it for stardance what do i even do to log in my next 3 hours
 
 [Timelapse](https://lookout.hackclub.com/api/media/e4d42eac-0086-40b1-9f59-83ca4f971dc3/video.mp4)
 
