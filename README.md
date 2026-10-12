@@ -12,3 +12,5 @@ heres a cool screenshot of what i did for my starbieV1 (its a rock)
 <img width="596" height="662" alt="image" src="https://github.com/user-attachments/assets/85a0fe0b-6558-42f1-b043-af59e5d01fbd" />
 
 V2 just has a big battery at the top.
+
+<img width="1152" height="827" alt="image" src="https://github.com/user-attachments/assets/e193fea5-6e2f-456b-88df-8e74631f9026" />
